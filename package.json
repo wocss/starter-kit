@@ -1,7 +1,7 @@
 {
   "name": "wocss-starter-kit",
   "version": "3.0.0",
-  "description": "wocss starter kit",
+  "description": "[DEPRECATED] wocss starter kit",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wocss/starter-kit.git"

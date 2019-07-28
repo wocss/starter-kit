@@ -1,3 +1,6 @@
+> ## This module is DEPRECATED
+> This module has been moved to the monorepo [wocss](https://github.com/wocss/wocss/tree/master/packages/starter-kit#readme) (and renamed to `@wocss/starter-kit`)
+
 # Starter Kit
 
 The `wocss-starter-kit` simply ties together a few key dependencies that are usually the starting point for any new project.
